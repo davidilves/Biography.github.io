@@ -1,5 +1,4 @@
-c
-##+ This is my biography
+ This is my biography
 
   Hello.
 
