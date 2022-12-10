@@ -4,7 +4,7 @@
 
   My name is David,i am 11 years old.
  
-   	    ![My foto](my_foto.jpeg)
+ ![My foto](my_foto.jpeg)
   
   I live in a city called Mataró, Mataró is situed in spain.
   I have one brother and one sister my sister is called Nadya, she have 6 years old.
